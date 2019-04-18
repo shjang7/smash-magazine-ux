@@ -8,7 +8,7 @@
 
 - [Lecture Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
-- [Project Demo](https://kelvin8773.github.io/smash-magazine-ux/)
+- [Project Demo](https://shjang7.github.io/smash-magazine-ux/)
 
 ## Contributor
 
