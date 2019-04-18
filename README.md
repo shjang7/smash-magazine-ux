@@ -18,7 +18,7 @@
 
 ## Explanation
 
-- We've used the skills for "Fluid design" in this project. <br />
-So when you resize the view of this website, you can see some columns <br />
-are having flexible working along with fluid design. <br />
-Also we used the skills for font size, style, line-height using Google font. <br />
+- When you resize the view of this website, you can see the objects <br />
+are having flexible working along with fluid columns. <br />
+And we gave stress for important locations with deeper gray color <br />
+Also we used the skills for font weight, size, style, line-height using Google font. <br />
