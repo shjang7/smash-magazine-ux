@@ -5,10 +5,51 @@ html * {
 
 body {
   color: #000;
-  font: 400 18px/1.5 "Ubuntu", sans-serif;
+  font: 400 18px/1.5 'Muli', sans-serif;
 }
+
 main {
+  width: 100%;
   background-color: #fff;
+}
+
+p {
+  font: 400 26px/1.5 'Indie Flower', cursive;
+  text-align: justify;
+}
+
+.f-s {
+  font: 200 18px/1.5 'Muli', sans-serif;
+  text-align: justify;
+}
+
+.f-m {
+  font: 600 22px/1.5 'Lora', serif;
+  text-align: justify;
+}
+
+h5 {
+  font: 700 22px/1.5 'Ubuntu', sans-serif;
+}
+
+h4 {
+  font: 800 28px/1.5 'Ubuntu', sans-serif;
+}
+
+h3 {
+  font: 900 36px/1.5 'Ubuntu', sans-serif;
+}
+
+#curated-posts p {
+  font: 400 24px/1.5 'Muli', sans-serif;
+}
+
+#opinions .col-1,
+#latest-posts .col-1,
+#community-links p,
+#curated-posts p,
+footer .description {
+  text-indent: 3em;
 }
 
 header {
@@ -17,56 +58,10 @@ header {
   background: #b8b8b8;
 }
 
-p {
-  font: 400 26px/1.5 "Indie Flower", cursive;
-  text-align: justify;
-  text-indent: 2em;
-}
-
-.f-s {
-  font: 200 18px/1.5 "Lora", serif;
-  text-align: justify;
-  text-indent: 3em;
-}
-
-.f-m {
-  font: 600 22px/1.5 "Lora", serif;
-  text-align: justify;
-}
-
-#latest-posts .f-m {
-  text-indent: 3em;
-}
-
-h5 {
-  font-size: 22px;
-  line-height: 1.5;
-  font-weight: 700;
-  background-color: #6f6f6f;
-}
-
-h4 {
-  font-size: 28px;
-  line-height: 1.5;
-  font-weight: 700;
-  background-color: #6a6a6a;
-}
-
-h3 {
-  font-size: 36px;
-  line-height: 1.5;
-  font-weight: 900;
-  background-color: #616161;
-}
-
 #top-menu {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
-}
-
-#top-menu h5 {
-  background: none;
 }
 
 #top-menu .logo,
@@ -153,10 +148,6 @@ h3 {
   background: #717171;
 }
 
-main {
-  width: 100%;
-}
-
 #latest-posts,
 #community-links,
 #curated-posts {
@@ -176,7 +167,7 @@ main {
   padding: 30px 50px;
 }
 
-#latest-posts [class*="col-"] {
+#latest-posts [class*='col-'] {
   width: 100%;
   height: 500px;
 }
@@ -212,11 +203,11 @@ main {
   background: #acacac;
 }
 
-[class*="ad-"] {
+[class*='ad-'] {
   padding: 40px 0;
 }
 
-[class*="block-ad-"] {
+[class*='block-ad-'] {
   width: 100%;
   height: 300px;
   background-color: #a4a4a4;
@@ -250,7 +241,7 @@ main {
   width: 90%;
 }
 
-#community-links [class*="col-"] {
+#community-links [class*='col-'] {
   height: 500px;
   width: 100%;
 }
@@ -289,7 +280,7 @@ main {
   margin-top: 20px;
 }
 
-#curated-posts [class*="col-"] {
+#curated-posts [class*='col-'] {
   width: 100%;
   height: 500px;
 }
@@ -329,6 +320,7 @@ footer ul {
 
 footer li {
   display: inline-block;
+  margin: 0 20px;
   line-height: 2em;
 }
 

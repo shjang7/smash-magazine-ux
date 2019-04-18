@@ -2,13 +2,13 @@
 
 #### An Odin Project for UX, Typography & CSS Grid.
 
-## Note:
+## Note
 
 - [Original WebSite](https://www.smashingmagazine.com/)
 
 - [Lecture Link](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
-- [Project Demo](https://kelvin8773.github.io/smash-magazine-ux/)
+- [Project Demo](https://shjang7.github.io/smash-magazine-ux/)
 
 ## Contributor
 
@@ -18,7 +18,6 @@
 
 ## Explanation
 
-- We've used the skills for "Fluid design" in this project. <br />
-So when you resize the view of this website, you can see some columns <br />
-are having flexible working along with fluid design. <br />
-Also we used the skills for font size, style, line-height using Google font. <br />
+- Fluid design : When you resize the webpage, you could see the objects are flexible moving with fluid designed columns. <br />
+- Give emphasis : Designing for UX, this project aimed for giving heaviness in important places coloring darker or lighter gray. <br />
+- Font : Using Google font, we experimented accessing different fonts weights, sizes, styles and so on.
