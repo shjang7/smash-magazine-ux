@@ -2,7 +2,7 @@
 
 #### An Odin Project for UX, Typography & CSS Grid.
 
-## Note:
+## Note
 
 - [Original WebSite](https://www.smashingmagazine.com/)
 
@@ -18,7 +18,6 @@
 
 ## Explanation
 
-- When you resize the view of this website, you can see the objects <br />
-are having flexible working along with fluid columns. <br />
-And we gave stress for important locations with deeper gray color <br />
-Also we used the skills for font weight, size, style, line-height using Google font. <br />
+- Fluid design : When you resize the webpage, you could see the objects are flexible moving with fluid designed columns. <br />
+- Give emphasis : Designing for UX, this project aimed for giving heaviness in important places coloring darker or lighter gray. <br />
+- Font : Using Google font, we experimented accessing different fonts weights, sizes, styles and so on.
